@@ -81,7 +81,7 @@ I am a results-driven **Full-Stack Developer** with over 2+ years of hands-on ex
 ![](https://github-readme-stats.vercel.app/api?username=bhaveshdev09&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=bhaveshdev09)
 -->
-
+![](https://github-readme-stats.vercel.app/api/wakatime?username=bhaveshdev09)
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 ### Connect with me 🤝 
 
