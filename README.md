@@ -79,8 +79,10 @@ I am a results-driven **Full-Stack Developer** with over 2+ years of hands-on ex
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshdev09&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api?username=bhaveshdev09&theme=blue-green)
--->
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=bhaveshdev09)
+-->
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 ### Connect with me 🤝 
 
 <a href="https://www.linkedin.com/in/bhavesh-developer/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="bhavesh_patil_linkedin" width="20px"/></a>
