@@ -1,21 +1,18 @@
-name: Waka Readme
+name: wakatime-readme-update
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
-  push:
-    branches:
-      - master
-  workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
+    # Runs at every 2 hrs
     - cron: '*/2 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/wakatime-readme@master
+      - uses: bhaveshdev09wakatime-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
