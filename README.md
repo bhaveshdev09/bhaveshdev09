@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a results-driven **Full-Stack Developer** with over 2+ years of hands-on experience in the software industry. My expertise lies in designing and implementing scalable web applications using Python frameworks such as Django, Flask, and Fast API. 
 
-- 🔭 I’m currently working on Advance Web development Practices 
+- 🔭 I’m currently working on advance web developments and some freelance projects
 - 🌱 I’m currently learning Docker, AWS and Machine Learning
 - 👯 I’m looking to collaborate on new business ideas.
 
