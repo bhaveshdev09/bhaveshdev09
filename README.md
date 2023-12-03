@@ -87,7 +87,7 @@ I am a results-driven **Full-Stack Developer** with over 2+ years of hands-on ex
 
 <a href="https://www.linkedin.com/in/bhavesh-developer/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="bhavesh_patil_linkedin" width="20px"/></a>
 
-<a href="https://instagram.com/bhaveshpatil0912"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="bhavesh_patil_instagram" width="20px"/></a>
+<a href="https://instagram.com/bhavesh.p09"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="bhavesh_patil_instagram" width="20px"/></a>
 
 <a href="https://twitter.com/bhaveshdev09"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="20px"/></a>
 
