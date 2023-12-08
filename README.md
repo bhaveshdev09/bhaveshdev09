@@ -71,6 +71,7 @@ I am a results-driven **Full-Stack Developer** with over 2+ years of hands-on ex
 ![](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 ![](https://img.shields.io/badge/Stack%20Overflow-%23FF6600?style=for-the-badge&logo=Stackoverflow&logoColor=white)
+![](https://img.shields.io/badge/Real%20Python-0078D6?link=https://realpython.com&style=for-the-badge&logo=Python&logoColor=F7DF1E&link=http://realpython.com/)
 </br>
 ### Education
 ![](https://img.shields.io/badge/Youtube-EC5252?style=for-the-badge&logo=youtube&logoColor=white)
