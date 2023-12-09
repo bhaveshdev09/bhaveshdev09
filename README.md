@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 
 <!--
 **bhaveshdev09/bhaveshdev09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-  Add Profile views using this <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshdev09&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesh" /> </p>
 -->
 
 I am a results-driven **Full-Stack Developer** with over 2+ years of hands-on experience in the software industry. My expertise lies in designing and implementing scalable web applications using Python frameworks such as Django, Flask, and Fast API. 
