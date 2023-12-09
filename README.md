@@ -20,6 +20,7 @@ I am a results-driven **Full-Stack Developer** with over 2+ years of hands-on ex
 - 🔭 I’m currently working on advance web developments and some freelance projects
 - 🌱 I’m currently learning Docker, AWS and Machine Learning
 - 👯 I’m looking to collaborate on new business ideas.
+- 📈 I enjoy investing in the stock markets.
 
 ### Technical Skills
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
