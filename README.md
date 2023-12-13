@@ -86,13 +86,3 @@ I am a results-driven **Full-Stack Developer** with over 2+ years of hands-on ex
 -->
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=bhaveshdev09)
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
-### Connect with me 🤝 
-
-<a href="https://www.linkedin.com/in/bhavesh-developer/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="bhavesh_patil_linkedin" width="20px"/></a>
-
-<a href="https://instagram.com/bhavesh.p09"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="bhavesh_patil_instagram" width="20px"/></a>
-
-<a href="https://twitter.com/bhaveshdev09"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="20px"/></a>
-
-<a href="mailto:patilbhavesh991209@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="20px"/></a>
-
