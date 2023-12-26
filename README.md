@@ -22,7 +22,10 @@ I am a results-driven **Full-Stack Developer** with over 2+ years of hands-on ex
 - 👯 I’m looking to collaborate on new business ideas.
 - 📈 I enjoy investing in the stock markets.
 
-### Technical Skills
+### GitHub Stats ✨
+![](https://github-readme-stats.vercel.app/api?username=bhaveshdev09&theme=blue-green)
+
+### Technical Skills 💪🏻
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -52,7 +55,7 @@ I am a results-driven **Full-Stack Developer** with over 2+ years of hands-on ex
 ![](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![](https://img.shields.io/badge/pytest-F80000?style=for-the-badge&logo=pytest&logoColor=black)
 </br>
-### OS & Tools
+### OS & Tools 🔥
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -81,3 +84,4 @@ I am a results-driven **Full-Stack Developer** with over 2+ years of hands-on ex
 -->
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=bhaveshdev09)
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
+
