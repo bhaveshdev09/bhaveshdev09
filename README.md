@@ -1,4 +1,4 @@
-### Hi there 👋 
+## Hi, Devs <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 <!--
 **bhaveshdev09/bhaveshdev09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +23,9 @@ I am a results-driven **Full-Stack Developer** with over 2+ years of hands-on ex
 - 📈 I enjoy investing in the stock markets.
 
 ### GitHub Stats ✨
-![](https://github-readme-stats.vercel.app/api?username=bhaveshdev09&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=bhaveshdev09&theme=blue-green) &nbsp;
+![](https://streak-stats.demolab.com/?user=bhaveshdev09&theme=blue-green)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshdev09&hide=java,css,scss,text&langs_count=3&theme=blue-green) -->
 
 ### Technical Skills 💪🏻
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -82,6 +84,6 @@ I am a results-driven **Full-Stack Developer** with over 2+ years of hands-on ex
 ![](https://github-readme-stats.vercel.app/api?username=bhaveshdev09&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=bhaveshdev09)
 -->
-![](https://github-readme-stats.vercel.app/api/wakatime?username=bhaveshdev09)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=bhaveshdev09&theme=react)
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
